@@ -1,0 +1,219 @@
+================================================================================
+                    GOOGLE PLAY CONSOLE - STORE LISTING
+                    OpalWish – Official Company Profile
+================================================================================
+
+APP INFORMATION
+================================================================================
+
+App Name: OpalWish – Official Company Profile
+Package Name: com.opalwish.profile
+Developer Name: OPALWISH (OPC) PRIVATE LIMITED
+Category: Business
+Content Rating: Everyone
+
+--------------------------------------------------------------------------------
+SHORT DESCRIPTION (Max 80 characters)
+--------------------------------------------------------------------------------
+
+Official company profile app of OPALWISH - Digital Solutions & App Development
+
+Character Count: 78
+
+--------------------------------------------------------------------------------
+FULL DESCRIPTION (Max 4000 characters)
+--------------------------------------------------------------------------------
+
+OpalWish – Official Company Profile is the official mobile application of OPALWISH (OPC) PRIVATE LIMITED, a registered digital technology company specializing in Android application development, website design, and comprehensive digital business solutions.
+
+📱 ABOUT THIS APP
+
+This application serves as the official digital profile and information portal for OPALWISH (OPC) PRIVATE LIMITED. It provides complete information about our company, services, and contact details in a clean, user-friendly interface.
+
+🏢 ABOUT THE COMPANY
+
+OPALWISH (OPC) PRIVATE LIMITED is a One Person Company (OPC) dedicated to delivering high-quality digital technology solutions. We are committed to helping businesses and individuals succeed in the digital landscape through innovative and reliable services.
+
+💼 OUR SERVICES
+
+• Android App Development
+  We develop professional Android applications tailored to your business needs. Our apps are built with modern frameworks and follow best practices for performance, security, and user experience.
+
+• Website Design & Development
+  We create responsive, modern websites that effectively represent your brand online. From simple informational sites to complex web applications, we deliver solutions that engage your audience.
+
+• Digital Business Solutions
+  We provide comprehensive digital solutions to help businesses streamline their operations and establish a strong digital presence. Our solutions are designed to drive growth and efficiency.
+
+• Software-Based Platforms
+  We develop custom software platforms that address specific business challenges. Our platforms are scalable, secure, and built to evolve with your business needs.
+
+🌟 OUR VALUES
+
+• Professionalism – Maintaining the highest standards in all our work
+• Transparency – Clear and honest communication with our clients
+• Quality – Delivering solutions that exceed expectations
+• Innovation – Staying updated with the latest technologies
+• Client Satisfaction – Putting our clients' needs first
+
+🔒 PRIVACY & SECURITY
+
+This app is designed with your privacy in mind:
+✓ 100% Offline functionality - No internet connection required
+✓ No data collection - We do not collect any personal information
+✓ No tracking - No analytics or user tracking
+✓ No ads - Clean, ad-free experience
+✓ No login required - Use the app instantly
+
+📞 CONTACT US
+
+Get in touch with us for your digital needs:
+• Contact: Jaswinder Singh Saini
+• Email: opalwishopc1997@gmail.com
+• Phone: +91 98760 81332
+
+Download now to learn more about OPALWISH (OPC) PRIVATE LIMITED and how we can help you achieve your digital goals.
+
+Character Count: ~2,400
+
+--------------------------------------------------------------------------------
+TAGS / KEYWORDS
+--------------------------------------------------------------------------------
+
+company profile, business app, android development, website design, digital solutions, OPALWISH, software development, mobile app development, IT services, business solutions, corporate app, company info, offline app, privacy focused
+
+--------------------------------------------------------------------------------
+CATEGORY & CONTENT RATING
+--------------------------------------------------------------------------------
+
+Primary Category: Business
+Secondary Category: Productivity (optional)
+
+Content Rating: Everyone
+- No violence
+- No sexual content
+- No profanity
+- No user-generated content
+- No ads
+- No in-app purchases
+
+--------------------------------------------------------------------------------
+CONTACT DETAILS (For Play Console)
+--------------------------------------------------------------------------------
+
+Developer Name: OPALWISH (OPC) PRIVATE LIMITED
+Contact Email: opalwishopc1997@gmail.com
+Phone: +91 98760 81332
+Website: N/A (Offline app)
+Privacy Policy URL: Embedded in app (offline)
+
+--------------------------------------------------------------------------------
+APP ACCESS
+--------------------------------------------------------------------------------
+
+☑ All functionality is available without special access
+☐ No restricted features
+☐ No login required
+☐ No special permissions needed
+
+--------------------------------------------------------------------------------
+DATA SAFETY SECTION
+--------------------------------------------------------------------------------
+
+Data Collection: NO
+- App does not collect any user data
+
+Data Sharing: NO  
+- App does not share any data with third parties
+
+Data Encryption: N/A
+- No data is transmitted
+
+Data Deletion: N/A
+- No user data is stored
+
+Location Data: NO
+Personal Info: NO
+Financial Info: NO
+Health Info: NO
+Messages: NO
+Photos/Videos: NO
+Audio Files: NO
+Files/Docs: NO
+Calendar: NO
+Contacts: NO
+App Activity: NO
+Web Browsing: NO
+Device ID: NO
+
+--------------------------------------------------------------------------------
+REQUIRED GRAPHICS
+--------------------------------------------------------------------------------
+
+1. App Icon
+   - Size: 512 x 512 px
+   - Format: PNG (32-bit with alpha)
+   - File: Already generated from logo.png
+
+2. Feature Graphic
+   - Size: 1024 x 500 px
+   - Format: PNG or JPG
+   - Content suggestion: Company logo with tagline
+     "OPALWISH (OPC) PRIVATE LIMITED"
+     "Digital Solutions | App Development | Web Design"
+
+3. Screenshots (Required: 2-8)
+   - Phone: 16:9 or 9:16 aspect ratio
+   - Minimum: 320px, Maximum: 3840px
+   
+   Suggested Screenshots:
+   - Screenshot 1: Home Screen with company introduction
+   - Screenshot 2: About Company screen
+   - Screenshot 3: Services screen (showing all services)
+   - Screenshot 4: Contact screen with email/phone
+   - Screenshot 5: Privacy Policy screen
+   - Screenshot 6: About App screen
+
+4. Phone Screenshots Dimensions (Recommended):
+   - 1080 x 1920 px (Portrait)
+   - 1920 x 1080 px (Landscape)
+
+--------------------------------------------------------------------------------
+DECLARATIONS
+--------------------------------------------------------------------------------
+
+☑ App does not contain ads
+☑ App contains no in-app purchases  
+☑ App is free
+☑ App is suitable for all ages
+☑ App complies with Google Play policies
+☑ Privacy policy is accessible within the app
+☑ App functions 100% offline
+
+--------------------------------------------------------------------------------
+VERSION INFORMATION
+--------------------------------------------------------------------------------
+
+Version Name: 1.0.0
+Version Code: 1
+Minimum Android Version: Varies by device (Flutter default)
+Target Android Version: Android 14 (API 34)
+
+--------------------------------------------------------------------------------
+RELEASE NOTES (What's New)
+--------------------------------------------------------------------------------
+
+Version 1.0.0 - Initial Release
+
+• Official company profile application
+• Complete information about OPALWISH (OPC) PRIVATE LIMITED
+• View our services: Android Development, Web Design, Digital Solutions
+• Easy contact options: Email and Phone
+• Built-in Privacy Policy
+• 100% offline functionality
+• Clean, ad-free interface
+• No data collection
+
+================================================================================
+                              END OF STORE LISTING
+================================================================================
